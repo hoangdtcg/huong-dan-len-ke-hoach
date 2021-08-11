@@ -1,0 +1,71 @@
+Case Study
+ - Biết cách làm 1 dự án
+ - Vận dụng kiến thức của mình để hoàn thiện 1 dự án
+
+Nhận 1 dự án: (Sản phẩm)
+- Game : Thiên về mặt giải trí và trải nghiệm nhiều hơn
+    - Angry bird
+    - Đua xe
+    - Hứng trứng
+    - Đoán từ
+    - Bắn tank
+    - Đối kháng
+    - Quản lý bóng đá
+    - Bắn máy bay
+    - Sudoku
+    - Game trí nhớ
+    - .........
+- App (Ứng dụng) : Thiên về mặt giải quyết 1 vấn đề nào đó
+    - Ai là triệu phú
+    - Chứng khoán
+    - Lịch - Todo App
+    - Máy tính
+    - Đồng hồ
+    - App quản lý chi tiêu
+    - Từ điển
+    - Bản đồ
+    - ....
+- Web
+    - App: Mp3, Duolingo, memrise, Google dịch, Quản lý.... 
+    - Site: 24h, Vnexpress, Youtube...
+
+Danh sách đăng ký dự án cuối khóa:
+- Trần Đăng Hiếu: Game đối kháng người que
+- Đặng Vĩnh Phúc: Game bắn chim
+- Huỳnh Ngọc Khánh Mỹ: MP3 Basic
+- Nguyễn Văn Luân: Angry Bird
+- Trịnh Ngọc Lâm : Battle City
+- Phạm Huỳnh Phát: Game hứng trứng
+- Hàng Ngọc Cẩm Tú: Web bán quần áo
+
+B1: Tìm hiểu
+    - Dùng thử các sản phẩm tương tự
+    - Phác họa ra sản phẩm đầu ra
+B2: Phân tích - Đưa ra những mô tả khái quát
+    - Luồng chương trình
+        - Có bao nhiêu màn hình?
+        - Bắt đầu (Login), trang chủ, game over, giỏ hàng....
+    - Các đối tượng có trong chương trình
+        - Đối tượng chính
+        - Đối tượng liên quan đến đối tượng chính
+    - Các đối tượng tương tác với nhau như nào
+
+B3: Đưa ra backlog cụ thể - Danh sách các tính năng
+    - Là .(ai).. tôi muốn..(làm gì).
+    - Danh sách tương đối tính năng chính
+
+1. STT
+2. Tên tính năng
+3. Mô tả
+4. Độ ưu tiên
+
+1. Là người chơi tôi muốn nhìn thấy màn hình bắt đầu game(Hight)
+    - Có background
+    - Có nút start game
+    - Ấn nút start chuyển sang màn hình game
+    - Có âm thanh
+
+2. Là người chơi tôi muốn dùng bàn phím để điều kiển nhân vật (High)
+    - Dùng các phím ASWD để di chuyển lên xuống trái phải
+
+- Follow theo thiết kế, kế hoạch
